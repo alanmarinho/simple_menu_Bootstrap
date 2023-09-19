@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.row{
+    display: flex;
+    flex-direction: row;
+    margin: 20px;
+    color: aliceblue;
+}
+.col1{
+    padding: 10px;
+    background-color: rgb(72, 138, 192);
+}
+
+.col2{
+    padding: 10px;
+    background-color: red;
+    
+}
